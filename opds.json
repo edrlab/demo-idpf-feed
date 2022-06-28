@@ -1,0 +1,154 @@
+{
+    "metadata": {
+        "title": "EDRLAB feed with some IPDF books"
+    },
+    "links": [
+        {
+            "href": "https://edrlab.org",
+            "type": "text/html",
+            "rel": "alternate"
+        }
+    ],
+    "publications": [
+        {
+            "metadata": {
+                "@type": "http://schema.org/Book",
+                "identifier": "https://github.com/IDPF/epub3-samples/tree/master/30/accessible_epub_3/EPUB",
+                "title": "Accessible EPUB 3",
+                "author": "idpf",
+                "description": "Strategies for creating EPUB 3 content that can be read by people with different preferred reading modalities.",
+                "collection": "Publication Resources",
+                "modified": "2022-06-21T00:00:00Z",
+                "publisher": "IDPF",
+                "subject": [
+                    "idpf"
+                ]
+            },
+            "links": [
+                {
+                    "type": "application/epub+zip",
+                    "rel": "http://opds-spec.org/acquisition/open-access",
+                    "href": "https://github.com/IDPF/epub3-samples/releases/download/20170606/accessible_epub_3.epub"
+                }
+            ],
+            "images": [
+                {
+                    "href": "https://raw.githubusercontent.com/IDPF/epub3-samples/main/30/accessible_epub_3/EPUB/covers/9781449328030_lrg.jpg",
+                    "type": "image/jpg"
+                }
+            ]
+        },
+        {
+            "metadata": {
+                "@type": "http://schema.org/Book",
+                "identifier": "https://github.com/IDPF/epub3-samples/tree/master/30/cc-shared-culture/EPUB",
+                "title": "Creative Commons Shared Culture",
+                "author": "idpf",
+                "description": "The video, audio and text from Creative Commons A Shared Culture in EPUB form; each spine item containing a variation of <video>/<audio> embedding. See the Navigation Document (toc.xhtml) for details. Licensing: CC-BY-NC-SA",
+                "collection": "Publication Resources",
+                "modified": "2022-06-21T00:00:00Z",
+                "publisher": "IDPF",
+                "subject": [
+                    "idpf"
+                ]
+            },
+            "links": [
+                {
+                    "type": "application/epub+zip",
+                    "rel": "http://opds-spec.org/acquisition/open-access",
+                    "href": "https://github.com/IDPF/epub3-samples/releases/download/20170606/cc-shared-culture.epub"
+                }
+            ],
+            "images": [
+                {
+                    "href": "https://raw.githubusercontent.com/IDPF/epub3-samples/main/30/cc-shared-culture/EPUB/images/326261902_3fa36f548d.jpg",
+                    "type": "image/jpg"
+                }
+            ]
+        },
+        {
+            "metadata": {
+                "@type": "http://schema.org/Book",
+                "identifier": "https://github.com/IDPF/epub3-samples/tree/master/30/cole-voyage-of-life/EPUB",
+                "title": "The Voyage of Life",
+                "author": "idpf",
+                "description": "A mixed reflowable and fixed layout document. This sample can be used to test Reading System support for item-level changes to fixed layout meta properties.",
+                "collection": "Publication Resources",
+                "modified": "2022-06-21T00:00:00Z",
+                "publisher": "IDPF",
+                "subject": [
+                    "idpf"
+                ]
+            },
+            "links": [
+                {
+                    "type": "application/epub+zip",
+                    "rel": "http://opds-spec.org/acquisition/open-access",
+                    "href": "https://github.com/IDPF/epub3-samples/releases/download/20170606/cole-voyage-of-life.epub"
+                }
+            ],
+            "images": [
+                {
+                    "href": "https://raw.githubusercontent.com/IDPF/epub3-samples/main/30/cole-voyage-of-life/EPUB/images/portrait.jpg",
+                    "type": "image/jpg"
+                }
+            ]
+        },
+        {
+            "metadata": {
+                "@type": "http://schema.org/Book",
+                "identifier": "https://github.com/IDPF/epub3-samples/tree/master/30/wasteland/EPUB",
+                "title": "The Waste Land",
+                "author": "idpf",
+                "description": "A basic recast of T.S. Eliot's The Waste Land in a single XHTML document, using <section> elements and the epub:type attribute to mark a live linked note apparatus and other structural components. Contains day and night alternate style sheets. For EPUB 2.0 Reading System compatibility purposes, a 2.01 NCX and the EPUB 2 cover meta element is included.",
+                "collection": "Publication Resources",
+                "modified": "2022-06-21T00:00:00Z",
+                "publisher": "IDPF",
+                "subject": [
+                    "idpf"
+                ]
+            },
+            "links": [
+                {
+                    "type": "application/epub+zip",
+                    "rel": "http://opds-spec.org/acquisition/open-access",
+                    "href": "https://github.com/IDPF/epub3-samples/releases/download/20170606/wasteland.epub"
+                }
+            ],
+            "images": [
+                {
+                    "href": "https://raw.githubusercontent.com/IDPF/epub3-samples/main/30/wasteland/EPUB/wasteland-cover.jpg",
+                    "type": "image/jpg"
+                }
+            ]
+        },
+        {
+            "metadata": {
+                "@type": "http://schema.org/Book",
+                "identifier": "https://github.com/IDPF/epub3-samples/tree/master/30/moby-dick/EPUB",
+                "title": "Moby Dick",
+                "author": "idpf",
+                "description": "Herman Melville's Moby-Dick with, as opposed to wasteland, one spine item per chapter. Includes embedded fonts (OpenType). Uses the epub:type attribute.",
+                "collection": "Publication Resources",
+                "modified": "2022-06-21T00:00:00Z",
+                "publisher": "IDPF",
+                "subject": [
+                    "idpf"
+                ]
+            },
+            "links": [
+                {
+                    "type": "application/epub+zip",
+                    "rel": "http://opds-spec.org/acquisition/open-access",
+                    "href": "https://github.com/IDPF/epub3-samples/releases/download/20170606/moby-dick.epub"
+                }
+            ],
+            "images": [
+                {
+                    "href": "https://raw.githubusercontent.com/IDPF/epub3-samples/main/30/moby-dick/OPS/images/9780316000000.jpg",
+                    "type": "image/jpg"
+                }
+            ]
+        }
+    ]
+}
