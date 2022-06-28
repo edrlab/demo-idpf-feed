@@ -4,9 +4,9 @@
     },
     "links": [
         {
-            "href": "https://edrlab.org",
-            "type": "text/html",
-            "rel": "alternate"
+            "href": "https://raw.githack.com/edrlab/demo-idpf-feed/master/opds.json",
+            "type": "application/opds+json",
+            "rel": "self"
         }
     ],
     "publications": [
